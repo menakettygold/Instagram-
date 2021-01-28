@@ -1,6 +1,6 @@
 # Date: 12/29/2018
-# Author: Mohamed
-# Description: Instagram bruter
+# Author: Ciaoneee632
+# Description: Instagram 
 
 from sys import exit
 from os.path import exists
